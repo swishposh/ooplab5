@@ -98,7 +98,7 @@ namespace LoginForm_HB
         private static void imagesCardChanged(DependencyObject obj, DependencyPropertyChangedEventArgs args)
         {
             var imImagesForm = obj as LoginCard;
-           // imImagesForm.imImages.Source = new BitmapImage(new Uri("pack://application:,,,/Resources/im1.jpg"));
+            imImagesForm.imImages.Source = new BitmapImage(new Uri("pack://application:,,,/Resources/lf1.jpg"));
         }
     }
 }

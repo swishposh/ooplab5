@@ -19,3 +19,5 @@ C:\Users\click\source\repos\oop5(4)\LoginForm_HB\obj\Debug\LoginCard.baml
 C:\Users\click\source\repos\oop5(4)\LoginForm_HB\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\click\source\repos\oop5(4)\LoginForm_HB\obj\Debug\LoginForm_HB.csprojAssemblyReference.cache
 C:\Users\click\source\repos\oop5(4)\LoginForm_HB\obj\Debug\App.baml
+C:\Users\click\source\repos\oop5(4)\LoginForm_HB\bin\Debug\Resources\lf1.jpg
+C:\Users\click\source\repos\oop5(4)\LoginForm_HB\obj\Debug\LoginForm_HB_Content.g.cs

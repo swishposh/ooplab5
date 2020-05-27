@@ -63,9 +63,29 @@ namespace LoginForm_HB.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap im1 {
+        internal static System.Drawing.Bitmap lf1 {
             get {
-                object obj = ResourceManager.GetObject("im1", resourceCulture);
+                object obj = ResourceManager.GetObject("lf1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lf2 {
+            get {
+                object obj = ResourceManager.GetObject("lf2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lf3 {
+            get {
+                object obj = ResourceManager.GetObject("lf3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
