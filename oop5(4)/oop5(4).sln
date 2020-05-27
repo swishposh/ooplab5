@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop5(4)", "oop5(4)\oop5(4).csproj", "{6C180697-A7C3-45DF-9FF1-E438633E961D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginForm_HB", "LoginForm_HB\LoginForm_HB.csproj", "{02B7DBA8-E281-4423-A045-D70B3503389E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C180697-A7C3-45DF-9FF1-E438633E961D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C180697-A7C3-45DF-9FF1-E438633E961D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C180697-A7C3-45DF-9FF1-E438633E961D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C180697-A7C3-45DF-9FF1-E438633E961D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B7DBA8-E281-4423-A045-D70B3503389E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B7DBA8-E281-4423-A045-D70B3503389E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B7DBA8-E281-4423-A045-D70B3503389E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B7DBA8-E281-4423-A045-D70B3503389E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E31CD7E-72F9-4094-916A-37BBD11A6037}
+	EndGlobalSection
+EndGlobal

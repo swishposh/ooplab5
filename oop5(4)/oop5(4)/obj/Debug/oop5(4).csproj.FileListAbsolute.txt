@@ -1,0 +1,9 @@
+C:\Users\click\source\repos\oop5(4)\oop5(4)\bin\Debug\oop5(4).exe.config
+C:\Users\click\source\repos\oop5(4)\oop5(4)\bin\Debug\oop5(4).exe
+C:\Users\click\source\repos\oop5(4)\oop5(4)\bin\Debug\oop5(4).pdb
+C:\Users\click\source\repos\oop5(4)\oop5(4)\obj\Debug\oop5_4_.Properties.Resources.resources
+C:\Users\click\source\repos\oop5(4)\oop5(4)\obj\Debug\oop5(4).csproj.GenerateResource.cache
+C:\Users\click\source\repos\oop5(4)\oop5(4)\obj\Debug\oop5(4).csproj.CoreCompileInputs.cache
+C:\Users\click\source\repos\oop5(4)\oop5(4)\obj\Debug\oop5(4).exe
+C:\Users\click\source\repos\oop5(4)\oop5(4)\obj\Debug\oop5(4).pdb
+C:\Users\click\source\repos\oop5(4)\oop5(4)\obj\Debug\oop5_4_.Form1.resources
