@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="495.763" Width="800">
     <Grid>
-        <local:LoginCard HorizontalAlignment="Left" Height="465" nameCard="David Stone" IDCard="0115257" positionCard="Auditor" VerticalAlignment="Top" Width="792"/>
+        <local:LoginCard HorizontalAlignment="Left" Height="465" nameCard="David Stone" IDCard="0115257" imagesCard="/Resources/lf2.jpg" positionCard="Auditor" VerticalAlignment="Top" Width="792"/>
     </Grid>
 </Window>

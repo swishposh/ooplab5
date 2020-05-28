@@ -83,22 +83,22 @@ namespace LoginForm_HB
         }
 
         //images
-        public string imagesCard
+        public ImageSource imagesCard
         {
-            get { return (string)GetValue(imImagesProperty); }
-            set { SetValue(imImagesProperty, value); }
+            get { return (ImageSource)GetValue(imagesCardProperty); }
+            set { SetValue(imagesCardProperty, value); }
         }
 
-        public static readonly DependencyProperty imImagesProperty = DependencyProperty.Register(
+        public static readonly DependencyProperty imagesCardProperty = DependencyProperty.Register(
             "imagesCard", // имя параметра в разметке 
-            typeof(string), // тип данных параметра 
+            typeof(ImageSource), // тип данных параметра 
             typeof(LoginCard), // тип данных элемента управления 
-            new PropertyMetadata(string.Empty, imagesCardChanged)); // метаданные - значение параметра по умолчанию и обработчик изменения параметра 
+            new PropertyMetadata(null, imagesCardChanged)); // метаданные - значение параметра по умолчанию и обработчик изменения параметра 
 
         private static void imagesCardChanged(DependencyObject obj, DependencyPropertyChangedEventArgs args)
         {
             var imImagesForm = obj as LoginCard;
-            imImagesForm.imImages.Source = new BitmapImage(new Uri("pack://application:,,,/Resources/lf1.jpg"));
+            imImagesForm.imImages.Source = imImagesForm.imagesCard;
         }
     }
 }

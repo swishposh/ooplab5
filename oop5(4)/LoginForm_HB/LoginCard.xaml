@@ -17,9 +17,7 @@
             <TextBlock x:Name="tbID" HorizontalAlignment="Left" Margin="564,23,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="36" Foreground="White"/>
         </Grid>
         <Image x:Name="imImages" HorizontalAlignment="Left" Height="249" Margin="498,82,0,0" VerticalAlignment="Top" Width="242">
-            <Image.OpacityMask>
-                <ImageBrush/>
-            </Image.OpacityMask>
+            
         </Image>
 
     </Grid>
